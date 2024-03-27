@@ -1,7 +1,7 @@
 export default function Header(){
     return(
         <header>
-            <h1>PTS</h1>
+            <h1>Telefone</h1>
         </header>
     );
 }
